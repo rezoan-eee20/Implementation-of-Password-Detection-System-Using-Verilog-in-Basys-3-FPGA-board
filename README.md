@@ -1,1 +1,1 @@
-# Implementation-of-Password-Detection-System-Using-Verilog-in-Basys-3-FPGA-board
+# Implementation-of-Password-Detection-System-Using-Verilog-in-Artix-7-FPGA-board
